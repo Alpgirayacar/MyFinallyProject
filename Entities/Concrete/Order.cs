@@ -14,7 +14,7 @@ namespace Entities.Concrete
         public int EmployeeId { get; set; } 
      
         public DateTime OrderDate { get; set; }  
-        public string ShipId { get; set; }  
+        public string ShipCity { get; set; }  
 
 
     }
